@@ -1,0 +1,1 @@
+There is a unknown reason that my program gives a segmentation fault (bus error) sometimes, but if you try more than one time it will open eventually.
